@@ -30,13 +30,13 @@ The BMI (Body Mass Index) in (kg/m^2) is equal to the weight in kilograms (kg) d
 
 ### Table 1 - BMI Category and the Health Risk:
 
-BMI Category             BMI Range (kg/m2)             Health risk
-Underweight               18.4 and below            Malnutrition risk
-Normal weight             18.5 - 24.9                    Low risk
-Overweight                  25 - 29.9                 Enhanced risk
-Moderately obese            30 - 34.9                  Medium risk
-Severely obese              35 - 39.9                   High risk
-Very severely obese         40 and above              Very high risk
+BMI Category|BMI Range (kg/m2)|Health risk
+Underweight           |    18.4 and below           | Malnutrition risk
+Normal weight       |      18.5 - 24.9          |          Low risk
+Overweight           |       25 - 29.9            |     Enhanced risk
+Moderately obese      |      30 - 34.9           |       Medium risk
+Severely obese          |    35 - 39.9             |      High risk
+Very severely obese      |   40 and above         |     Very high risk
 
 # Libraries/Packages Used :
 
